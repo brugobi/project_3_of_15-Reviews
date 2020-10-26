@@ -1,15 +1,15 @@
 # Reviews
 
-> Vanilla JS: This is the project 3 of 15 from the course created by [John Smilga](https://www.johnsmilga.com) and also avaible on [you tube](https://www.youtube.com/watch?v=c5SIG7Ie0dM&list=PLnHJACx3NwAey1IiiYmxFbXxieMYqnBKF).
+> This is the project 3 of 15 from the course created by [John Smilga](https://www.johnsmilga.com) and also avaible on [you tube](https://www.youtube.com/watch?v=c5SIG7Ie0dM&list=PLnHJACx3NwAey1IiiYmxFbXxieMYqnBKF). **Reviews** shows us some some reviews in ascending or descending order by clicking the right and left buttons and also in random order by clicking the surprise me button.
 
-![home_page](./assets/images/home.png)
+![home_page](home.png)
 
 ## Built With
 
 - HTML
 - CSS
 - VSCode
-- JavaScript
+- Vanilla JavaScript
 
 ## Getting Started
 
@@ -53,5 +53,5 @@ Feel free to check the [issues page](issues/).
 
 ## Acknowledgments
 
-- This is one project taken from the course created by [John Smilga](https://www.johnsmilga.com). Check out his YouTube channel [Coding Addict](https://www.youtube.com/codingaddict). Big cheers to the amazing author.
+- This is one project taken from the course created by [John Smilga](https://www.johnsmilga.com). Check out his YouTube channel [Coding Addict](https://www.youtube.com/codingaddict). Big cheers to the amazing creator.
 
